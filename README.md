@@ -9,8 +9,8 @@
 
 <h4 align="center">A powerful API system built to maintain a list of currently known phishing links.</h4>
 
-  <a href="https://img.shields.io/maintenance/yes/2021">
-    <img src="https://img.shields.io/maintenance/yes/2021">
+  <a href="https://img.shields.io/maintenance/yes/2022">
+    <img src="https://img.shields.io/maintenance/yes/2022">
   </a>
 </p>
 
